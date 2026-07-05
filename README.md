@@ -157,6 +157,5 @@ Customer_Churn_Prediction/
 │
 ├── 01_Data_Cleaning.ipynb
 ├── 02_EDA_Model_Training.ipynb
-├── README.md
-└── requirements.txt
+└── README.md
 ```
